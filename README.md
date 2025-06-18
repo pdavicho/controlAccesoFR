@@ -1,8 +1,3 @@
-¡Claro! Aquí tienes el contenido completo del `README.md`, listo para copiar y pegar en tu repositorio de GitHub:
-
----
-
-````markdown
 # 🔐 Sistema de Reconocimiento Facial para Apertura de Chapa Electromagnética
 
 Bienvenido a este proyecto de **control de acceso inteligente**, desarrollado con **OpenCV**, **clasificador Haar Cascade**, y una interfaz gráfica en **Tkinter**. El sistema utiliza reconocimiento facial en tiempo real para identificar personas autorizadas y activar una **chapa electromagnética** mediante un **relé controlado por GPIO** (ideal para Raspberry Pi).
